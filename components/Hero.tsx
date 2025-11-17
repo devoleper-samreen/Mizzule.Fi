@@ -93,7 +93,7 @@ export default function Hero() {
               of
             </motion.span>
             <span className="inline-block relative">
-              <span className="text-blue-600 font-bold">
+              <span className="text-black font-bold">
                 {displayedText}
               </span>
               <motion.span
